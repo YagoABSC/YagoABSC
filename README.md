@@ -1,6 +1,6 @@
 ## Olá, eu sou o Yago Aparecido <hr>
 ### Desenvolvedor Front-end
-##### Estudante de Técnico em Informática para Internet - 1º Semestre
+##### Programador Web em Senac - 1º Semestre
 ###### Bacharel em Publicidade e Propaganda / Técnico em Administração
  <hr>
 
