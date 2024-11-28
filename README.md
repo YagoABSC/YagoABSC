@@ -1,7 +1,7 @@
-## Olá, eu sou o Yago Aparecido <hr>
+## Olá, me chamo Yago<hr>
 ### Desenvolvedor Front-end
 ##### Programador Web em Senac - 3º Semestre
-###### Bacharel em Publicidade e Propaganda / Técnico em Administração
+###### Formado em Bacharel em Publicidade e Propaganda / Técnico em Administração
  <hr>
 
 ### Minhas Redes
