@@ -1,7 +1,6 @@
 ## Olá, me chamo Yago<hr>
-### Desenvolvedor Front-end
-##### Programador Web em Senac - 3º Semestre
-###### Formado em Bacharel em Publicidade e Propaganda / Técnico em Administração
+### Desenvolvedor Fullstack
+###### Técnico em Informática para Internet (Desenvolvedor Veb) | Bacharel em Publicidade e Propaganda | Técnico em Administração
  <hr>
 
 ### Minhas Redes
